@@ -7,7 +7,7 @@ const App = props => {
 
     return (
                 <div className="TipCaululator">
-                    <TipCauculator/>
+                    <TipCalculator/>
                 </div>
     )
 }
